@@ -1,0 +1,6 @@
+Credentials cache: API:5209
+        Principal: vmustone@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 28 10:05:31 2022  Jun 28 20:05:31 2022  krbtgt/HIVE.FI@HIVE.FI
+Jun 28 10:05:32 2022  Jun 28 20:05:31 2022  HTTP/student-storage.hive.fi@HIVE.FI
